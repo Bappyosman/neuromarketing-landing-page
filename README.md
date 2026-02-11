@@ -1,1 +1,1 @@
-https://github.io/neuromarketing-landing-page
+https://github.io/Bappyosman/neuromarketing-landing-page
